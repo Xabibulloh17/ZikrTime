@@ -1,0 +1,28 @@
+.Center{
+    width: 800px;
+    height: 800px;
+    margin: 30px auto;
+    background-color: rgb(196, 187, 187);
+    border-radius: 10px;
+    text-align: center;
+    color: #fff;
+    box-shadow: -100px 22px 32px 4px rgba(34, 60, 80, 0.2);
+}
+.Center > h1 {
+    font-size: 50px;
+    position: absolute;
+    left: 43%;
+}
+.Fatherdive{
+    display: flex;
+    justify-content: space-around;
+}
+.oneDive >  .Bacground > h1 {
+     font-size: 220px;
+}
+.oneDive > button {
+    width: 150px;
+    height: 50px;
+    background-color: #000;
+    color: #fff;
+}
